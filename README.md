@@ -6,4 +6,4 @@ I only make writeups for challenges/boxes that I find challenging or interesting
 
 **Disclaimer**
 
-Do not leak the writeups here without their flags. If I detect misuse, it will be reported to HTB.  I also will not be responsible for any misuse of these writeups.
+Do not leak the writeups here without their flags. If I detect misuse, it will be reported to HTB.  I also will not be responsible for any misuse of these writeups.  If you are part of the HTB staff or are the creator of a challenge/box here and would like to see the writeup removed for a certain reason, please contact me.  I will remove it as soon as possible.
